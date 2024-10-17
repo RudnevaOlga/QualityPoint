@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "HqPLIWFS6C0UPKH/8jh/+1ahjxslyAgxLsK74XHyBy3DaCWKShn+mri2G2SjaaxGMuHlGhhgwBzX4LLkPAkQ1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Olya\\source\\repos\\QualityPoint\\QualityPoint\\QualityPoint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Olya\\.nuget\\packages\\dadata\\23.6.1\\dadata.23.6.1.nupkg.sha512",
+    "C:\\Users\\Olya\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.16\\microsoft.aspnetcore.openapi.7.0.16.nupkg.sha512",
+    "C:\\Users\\Olya\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Olya\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Olya\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Olya\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Olya\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Olya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Olya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
