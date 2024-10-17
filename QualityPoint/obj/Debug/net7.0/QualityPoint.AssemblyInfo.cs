@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QualityPoint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04098f186d0cae76b7f4bab09e76565d390eb9f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("QualityPoint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QualityPoint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
